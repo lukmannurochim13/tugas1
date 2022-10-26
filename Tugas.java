@@ -9,7 +9,7 @@ public class Tugas {
         System.out.println("tulis jumlah yang ingin kamu tampilkan");
         int jumlah = scanner.nextInt();
         for (var i =0;i<jumlah;i++) {
-            System.out.println(simbol);
+            System.out.print(simbol);
         }
     }
 }
